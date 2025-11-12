@@ -69,7 +69,7 @@ Full-featured CRUD application on Solana
 - Smart contract auditing and vulnerability assessment
 
 ### 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-abdullah-846765378
 - 🐦 Twitter: [Your Twitter]
 - 📧 Email: [Your Email]
 - 🌐 Portfolio: [Your Website]
