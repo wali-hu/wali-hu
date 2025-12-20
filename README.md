@@ -1,146 +1,220 @@
-# Muhammad Abdullah (wali-hu) - Smart Contract Engineer
+# Muhammad Abdullah (wali-hu) 
 
-[![GitHub followers](https://img.shields.io/github/followers/wali-hu?style=social)](https://github.com/wali-hu)
-[![GitHub stars](https://img.shields.io/github/stars/wali-hu?style=social)](https://github.com/wali-hu)
+<div align="center">
 
-> **Smart Contract Engineer** specialized in Solana blockchain development with expertise in Rust, TypeScript, and full-stack dApp development.
+[![GitHub followers](https://img.shields.io/github/followers/wali-hu?style=for-the-badge&logo=github)](https://github.com/wali-hu)
+[![GitHub stars](https://img.shields.io/github/stars/wali-hu?style=for-the-badge&logo=github)](https://github.com/wali-hu)
+[![Repositories](https://img.shields.io/badge/Repositories-27-blue?style=for-the-badge&logo=git)](https://github.com/wali-hu?tab=repositories)
 
-##  Professional Summary
+**Solana Blockchain Specialist | Rust Expert | Full-Stack dApp Developer**
 
-Experienced blockchain developer with deep expertise in **Solana ecosystem development**, **Rust programming**, and **full-stack dApp architecture**. Demonstrated proficiency in building secure, scalable smart contracts and modern web applications. Graduate of **Ackee Blockchain Security's School of Solana** program with hands-on experience in advanced blockchain concepts.
+🎓 **Graduate**: Ackee Blockchain Security - School of Solana  
+🔐 **Specialization**: Security-first smart contract development  
+⚡ **Focus**: High-performance DeFi applications
 
-##  Technical Expertise
-
-### Blockchain Development
-- **Solana**: Native programs, Anchor framework, PDAs, Cross-Program Invocations
-- **Ethereum**: Solidity smart contracts, ERC standards, Foundry framework
-- **DeFi**: DEX integration, token mechanics, liquidity management
-- **Security**: Smart contract auditing, vulnerability assessment, secure coding practices
-
-### Programming Languages
-- **Rust** - Advanced (Systems programming, memory safety, zero-cost abstractions)
-- **TypeScript/JavaScript** - Proficient (Full-stack development, React, Node.js)
-- **Solidity** - Intermediate (Smart contracts, gas optimization, security patterns)
-- **Python** - Familiar (Automation, data analysis)
-
-### Frameworks & Tools
-- **Blockchain**: Anchor, Foundry, Hardhat, Web3.js, Solana CLI
-- **Frontend**: React, Next.js, Tailwind CSS, Wallet Adapters
-- **Backend**: Node.js, Express, RESTful APIs
-- **DevOps**: Git, GitHub Actions, Docker, Testing frameworks
-
-##  Featured Projects
-
-###  [School of Solana - Season 6](https://github.com/wali-hu/School-of-Solana)
-**Comprehensive Solana Development Program | Rust, Anchor, React**
-
-- **Advanced Learning Journey**: Completed intensive blockchain security program at Ackee Blockchain Security
-- **Full-Stack Twitter dApp**: Built complete social media platform with wallet integration
-- **Technical Achievements**: 
-  - Implemented complex PDA-based architecture
-  - Developed on-chain calculator with overflow protection
-  - Created reaction and comment systems with state management
-  - Achieved 100% test coverage across all modules
-- **Skills Demonstrated**: Rust mastery, Anchor framework, React integration, security best practices
-
-###  [Native Rust Vault](https://github.com/wali-hu/native-rust-vault)
-**Secure SOL Storage System | Native Solana, Rust**
-
-- **Security-First Design**: Per-user SOL vaults with strict access controls
-- **Advanced Solana Concepts**: PDA-based architecture, cross-program invocations, rent economics
-- **Technical Features**:
-  - Binary instruction format for gas efficiency
-  - Compact 34-byte state structure
-  - Depositor-only withdrawal authorization
-  - Production-ready error handling
-- **Skills Demonstrated**: Native Solana development, security patterns, memory optimization
-
-###  [Manual Solana Deserialization](https://github.com/wali-hu/solana-manual-deserialization-rs)
-**Low-Level Blockchain Data Processing | Rust, Zero-Copy**
-
-- **Advanced Technical Implementation**: Manual byte-level SPL Token account decoding
-- **Performance Optimization**: Zero-copy deserialization using bytemuck
-- **Deep Protocol Knowledge**: Complete understanding of Solana's binary data formats
-- **Skills Demonstrated**: Low-level programming, memory layout expertise, protocol internals
-
-###  [Solana Voting dApp](https://github.com/wali-hu/solana-project-1-voting-dapp)
-**Full-Stack Governance Platform | Anchor, Next.js, TypeScript**
-
-- **Complete dApp Architecture**: Smart contracts with modern React frontend
-- **Advanced Features**: Multi-wallet support, real-time updates, responsive design
-- **Technical Stack**: Anchor framework, Next.js 14, TypeScript, Tailwind CSS
-- **Skills Demonstrated**: Full-stack development, state management, user experience design
-
-###  [Jito DEX Rebalancer Bot](https://github.com/wali-hu/jito-dex-rebalancer-bot)
-**MEV-Protected Trading Bot | Rust, WebSocket, Jito**
-
-- **Advanced Trading Infrastructure**: Off-chain client with WebSocket event listening
-- **MEV Protection**: Bundled transactions via Jito Block Engine
-- **High-Performance Architecture**: Priority processing and tip optimization
-- **Skills Demonstrated**: DeFi integration, real-time systems, MEV strategies
-
-###  [NFT Collection with Whitelist](https://github.com/wali-hu/Built-an-NFT-Collection-with-a-whitelist-using-Foundry-and-Solidity)
-**Ethereum NFT Project | Solidity, Foundry, OpenZeppelin**
-
-- **Smart Contract Development**: ERC721 implementation with whitelist functionality
-- **Modern Tooling**: Foundry framework with OpenZeppelin integration
-- **Gas Optimization**: Efficient data structures and minimal storage operations
-- **Skills Demonstrated**: Ethereum development, ERC standards, security patterns
-
-##  GitHub Statistics
-
-- **27 Public Repositories** - Diverse portfolio of blockchain and web development projects
-- **32 Stars** - Community recognition for quality code and innovative solutions
-- **14 Followers** - Growing network of developers and blockchain enthusiasts
-- **Active Contributor** - Consistent commits and project updates
-
-##  Core Competencies
-
-### Blockchain Architecture
-- **Smart Contract Design**: Secure, gas-efficient contract development
-- **DeFi Protocols**: DEX integration, liquidity management, yield farming
-- **Security Auditing**: Vulnerability assessment and secure coding practices
-- **Scalability Solutions**: Layer 2 integration, state optimization
-
-### Full-Stack Development
-- **Frontend Excellence**: Modern React applications with Web3 integration
-- **Backend Systems**: RESTful APIs, database design, microservices
-- **DevOps Practices**: CI/CD pipelines, automated testing, deployment strategies
-- **User Experience**: Intuitive interfaces, wallet integration, responsive design
-
-### Professional Skills
-- **Problem Solving**: Complex algorithm implementation, optimization challenges
-- **Code Quality**: Clean architecture, comprehensive testing, documentation
-- **Learning Agility**: Rapid adoption of new technologies and frameworks
-- **Collaboration**: Open source contributions, code reviews, mentoring
-
-##  Achievements & Recognition
-
-- ** GitHub Achievements**: Pair Extraordinaire, Quickdraw
-- ** Certified Graduate**: Ackee Blockchain Security - School of Solana
-- ** Project Impact**: Multiple projects with production-ready code quality
-- ** Security Focus**: Emphasis on secure coding practices and vulnerability prevention
-
-##  Learning & Development
-
-### Current Focus Areas
-- **Advanced Solana Patterns**: Cross-Program Invocations, Program Upgrades
-- **DeFi Innovation**: Automated Market Makers, Yield Optimization
-- **Security Research**: Smart contract auditing, formal verification
-- **Rust Mastery**: Systems programming, performance optimization
-
-### Continuous Learning
-- **Daily Practice**: Systematic skill development with structured learning plans
-- **Community Engagement**: Active participation in blockchain developer communities
-- **Open Source**: Contributing to ecosystem projects and tools
-- **Knowledge Sharing**: Documentation and educational content creation
-
-##  Let's Connect
-
-I'm passionate about blockchain technology and always interested in collaborating on innovative projects. Whether you're looking for a smart contract developer, full-stack engineer, or blockchain consultant, I'd love to discuss how we can work together.
-
-**Available for**: Smart contract development, dApp architecture, security audits, technical consulting, and full-stack blockchain projects.
+</div>
 
 ---
 
+## 💻 Technical Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦀 **Blockchain Development**
+| Technology | Proficiency | Projects |
+|------------|-------------|----------|
+| **Solana/Rust** | ⭐⭐⭐⭐⭐ | 13+ |
+| **Anchor Framework** | ⭐⭐⭐⭐⭐ | 8+ |
+| **Ethereum/Solidity** | ⭐⭐⭐⭐ | 6+ |
+| **DeFi Protocols** | ⭐⭐⭐⭐ | 5+ |
+
+</td>
+<td width="50%">
+
+### 🌐 **Full-Stack Development**
+| Technology | Proficiency | Use Case |
+|------------|-------------|----------|
+| **TypeScript** | ⭐⭐⭐⭐⭐ | Frontend/Backend |
+| **React/Next.js** | ⭐⭐⭐⭐ | dApp Interfaces |
+| **Web3 Integration** | ⭐⭐⭐⭐⭐ | Wallet Adapters |
+| **Node.js** | ⭐⭐⭐⭐ | Backend APIs |
+
+</td>
+</tr>
+</table>
+
+### 🛠️ **Development Tools**
+```
+Blockchain:  Anchor • Foundry • Hardhat • Solana CLI • Web3.js
+Frontend:    React • Next.js • Tailwind CSS • TypeScript
+Backend:     Node.js • Express • RESTful APIs
+DevOps:      Git • GitHub Actions • Docker • Jest
+```
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 [School of Solana - Season 6](https://github.com/wali-hu/School-of-Solana)
+**Comprehensive Solana Development Program**
+- ✅ Ackee Blockchain Security Graduate
+- ✅ Full-Stack Twitter dApp
+- ✅ Complex PDA Architecture
+- ✅ 100% Test Coverage
+- **Stack**: Rust, Anchor, React
+
+</td>
+<td width="50%">
+
+### 🔐 [Native Rust Vault](https://github.com/wali-hu/native-rust-vault)
+**Secure SOL Storage System**
+- ✅ Per-user SOL vaults
+- ✅ PDA-based security
+- ✅ Binary instruction format
+- ✅ Production-ready
+- **Stack**: Native Solana, Rust
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [Manual Deserialization](https://github.com/wali-hu/solana-manual-deserialization-rs)
+**Low-Level Data Processing**
+- ✅ Byte-level SPL Token decoding
+- ✅ Zero-copy optimization
+- ✅ Protocol internals mastery
+- ✅ Memory layout expertise
+- **Stack**: Rust, Bytemuck
+
+</td>
+<td width="50%">
+
+### 🗳️ [Solana Voting dApp](https://github.com/wali-hu/solana-project-1-voting-dapp)
+**Full-Stack Governance Platform**
+- ✅ Multi-wallet support
+- ✅ Real-time updates
+- ✅ Modern React frontend
+- ✅ TypeScript integration
+- **Stack**: Anchor, Next.js, TypeScript
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [Jito DEX Rebalancer Bot](https://github.com/wali-hu/jito-dex-rebalancer-bot)
+**MEV-Protected Trading Bot**
+- ✅ WebSocket event listening
+- ✅ Jito Block Engine integration
+- ✅ Priority processing
+- ✅ MEV protection
+- **Stack**: Rust, WebSocket, Jito
+
+</td>
+<td width="50%">
+
+### 🎨 [NFT Collection](https://github.com/wali-hu/Built-an-NFT-Collection-with-a-whitelist-using-Foundry-and-Solidity)
+**Ethereum NFT with Whitelist**
+- ✅ ERC721 implementation
+- ✅ Whitelist functionality
+- ✅ Gas optimization
+- ✅ OpenZeppelin integration
+- **Stack**: Solidity, Foundry
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Statistics
+
+| Metric | Value | Description |
+|--------|-------|-------------|
+| **📁 Repositories** | 27 | Diverse blockchain & web projects |
+| **⭐ Stars** | 32 | Community recognition |
+| **👥 Followers** | 14 | Growing developer network |
+| **🔥 Activity** | Active | Consistent contributions |
+
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="33%">
+
+### 🔗 **Blockchain Architecture**
+- Smart Contract Design
+- DeFi Protocol Integration
+- Security Auditing
+- Scalability Solutions
+
+</td>
+<td width="33%">
+
+### 🌐 **Full-Stack Development**
+- React/Web3 Integration
+- RESTful API Design
+- CI/CD Pipelines
+- User Experience Design
+
+</td>
+<td width="33%">
+
+### 💼 **Professional Skills**
+- Complex Problem Solving
+- Clean Code Architecture
+- Rapid Technology Adoption
+- Open Source Collaboration
+
+</td>
+</tr>
+</table>
+
+## 🌟 Achievements & Recognition
+
+| Achievement | Details |
+|-------------|---------|
+| 🏆 **GitHub Badges** | Pair Extraordinaire, Quickdraw |
+| 🎓 **Certification** | Ackee Blockchain Security Graduate |
+| 📈 **Impact** | Production-ready code quality |
+| 🔒 **Focus** | Security-first development |
+
+## 📈 Current Focus & Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Current Focus**
+- Advanced Solana Patterns
+- DeFi Innovation
+- Security Research
+- Rust Mastery
+
+</td>
+<td width="50%">
+
+### 📚 **Learning Approach**
+- Daily Practice
+- Community Engagement
+- Open Source Contributions
+- Knowledge Sharing
+
+</td>
+</tr>
+</table>
+
+## 🤝 Let's Connect
+
+> **Available for**: Smart contract development, dApp architecture, security audits, technical consulting, and full-stack blockchain projects.
+
+---
+
+<div align="center">
+
 *"Building the decentralized future, one smart contract at a time."*
+
+</div>
