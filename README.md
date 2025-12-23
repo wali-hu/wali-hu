@@ -171,7 +171,7 @@ DevOps:      Git • GitHub Actions • Docker • Jest
 
 | Achievement | Details |
 |-------------|---------|
-|  **GitHub Badges** | Pair Extraordinaire, Quickdraw |
+|  **GitHub Badges** | Pair Extraordinaire, Quickdraw, Pull Shark, YOLO |
 |  **Certification** | Ackee Blockchain Security Graduate |
 |  **Impact** | Production-ready code quality |
 |  **Focus** | Security-first development |
