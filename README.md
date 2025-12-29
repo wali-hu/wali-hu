@@ -40,13 +40,10 @@
 </tr>
 </table>
 
-
-> **Available for**: Smart contract development, dApp architecture, security audits, technical consulting, and full-stack blockchain projects.
-
 ---
 
 <div align="center">
 
-*"Building the decentralized future, one smart contract at a time."*
+*"Always curious to know more!."*
 
 </div>
