@@ -5,10 +5,6 @@
 ╔══════════════════════════════════════════════════════╗
 ║   Building on Solana + EVM  ·  Going protocol-deep  ║
 ╚══════════════════════════════════════════════════════╝
-```
-
-# Muhammad Abdullah
-### Blockchain Engineer 
 
 [![Email](https://img.shields.io/badge/Email-abdullah.se4th%40gmail.com-1A56A0?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.se4th@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
