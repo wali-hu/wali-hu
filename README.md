@@ -23,18 +23,19 @@ Ackee Blockchain        →  School of Solana Season 6 — on-chain programs, fu
                            in Anchor + React. Got the graduation NFT ✓
 Freelance               →  Solana Token Presale dApp · Meteora SDK simulation tool for clients
 Rust Book (self-study)  →  Fascinated by the language itself — not just for Solana
-ProgrammX               →  September 4, 2026 → Present. Shifted from Anchor to native Rust.
+ProgrammX               →  September 1, 2025 → Present. 
+                           Shifted from Anchor based Solana Programs → Native Rust: Solana Programs
                            That's when things got really interesting.
 ```
 
 ## Tech Stack
 
 ```
-Solana    →  Native Rust (no framework) · Anchor · SPL Token · Token-2022 · P-Token
-              PDAs · Versioned Tx (v0) · ALTs · Raydium SDK v2 · Jito · Raydium · Jupiter · DeFi primitives
+Solana    →    Native Rust · Anchor · SPL Token · Token-2022 · P-Token
+               PDAs · Versioned Tx (v0) · ALTs · Raydium SDK v2 · Jito · Raydium · Jupiter · DeFi primitives
 
 EVM       →  Solidity · Foundry · Hardhat · OpenZeppelin · ERC-20/721/721-A/1155 · web3.js · ethers.js
-              Uniswap: V1,V2, V3, V4(Hooks) · Chainlink VRF · 0x Protocol · Permit2
+             Uniswap: V1,V2, V3, V4(Hooks) · Chainlink VRF · 0x Protocol · Permit2
 
 Languages →  Rust  ·  TypeScript  ·  Solidity  ·  Python · Javascript
 
