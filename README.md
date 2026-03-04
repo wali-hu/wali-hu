@@ -18,11 +18,18 @@
 ## How I Got Here
 
 ```
-Cyfrin Updraft          →  Blockchain Basics, Solidity + Foundry, fundamentals to advanced, shipped first client contract (Freelance)
-Ackee Blockchain        →  School of Solana Season 6 — on-chain programs, full-stack dApp
-                           in Anchor + React. Got the graduation NFT ✓
-Freelance               →  Solana Token Presale dApp · Meteora SDK simulation tool for clients
-Rust Book (self-study)  →  Fascinated by the language itself — not just for Solana
+Cyfrin Updraft          →  Blockchain Basics, Solidity + Foundry, fundamentals to advanced.
+                           Got my First Client: Build Educational Smart Contracts for School Students.
+
+Rust Book (self-study)  →  Fascinated by the language itself,  not just for Solana!
+
+Ackee Blockchain        →  School of Solana Season 6:
+                           · On-chain programs
+                           · full-stack Twitter dApp in Anchor + React.
+                           · Got the graduation NFT ✓
+
+Freelance               →  Solana Token Presale dApp · Meteora SDK simulation tool for client
+
 ProgrammX               →  September 1, 2025 → Present. 
                            Shifted from Anchor based Solana Programs → Native Rust: Solana Programs
                            That's when things got really interesting.
